@@ -5,3 +5,4 @@ Conteúdo existente aqui é o arquivo em SQL com o código para gerar o banco de
 - **Artigo_Clinica_JoaoVI.docx** -> sendo o Artigo que descreve e mostra os diagramas do banco de dados
 - **clinicajoao.sql** -> sendo o código SQL do banco de dados em si
 - **Artigo_Clinica_JoaoVI.pdf** -> sendo a versão do artigo mas em PDF
+- **Projeto Banco de Dados.pdf** -> apresentação feita sobre o projeto
